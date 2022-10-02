@@ -10,6 +10,14 @@ a {
   text-decoration: none;
 }
 
+header, nav, h2, .main-visual, footer {
+  font-family: Chalkduster, "Bradley Hand", Courier, "Segoe Print", sans-serif;
+}
+
+header .heading {
+  font-size: 32px;
+}
+
 header {
   width: 90%;
   padding: 15px 0;
@@ -27,10 +35,6 @@ header {
 .social i {
   display: inline-block;
   margin-left: 20px;
-}
-
-header .heading {
-  font-size: 32px;
 }
 
 .nav-list {
