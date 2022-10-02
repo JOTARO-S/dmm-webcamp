@@ -131,12 +131,12 @@ main {
   font-size: 11px;
 }
 
-.pagiantion {
+.pagination {
   text-align: center;
   padding-top: 50px;
 }
 
-.pagiantion p {
+.pagination p {
   display: inline-block;
   width: 30px;
   height: 30px;
