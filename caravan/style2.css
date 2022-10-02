@@ -6,39 +6,36 @@
   
 }
 
-.main {
-  width: 100%;
-
+a {
+  color: gray;
 }
 
-.main-content1 {
+.header-image{
+  height: 400px;
   width: 100%;
-  height: 200px;
-  background-image: url(img2/box1.jpg);
-  background-position: center;
+  background-image: url(img7ex/mv.jpg);
+  background-position: bottom;
   background-size: cover;
 }
 
-.main-content2 {
-  width: 100%;
-  height: 200px;
-  background-image: url(img2/box2.jpg);
-  background-position: center;
-  background-size: cover;
+.heading {
+  color: gray;
+  padding:20px;
 }
 
-.main-content3 {
-  width: 100%;
-  height: 200px;
-  background-image: url(img2/box3.jpg);
-  background-position: center;
-  background-size: cover;
+main {
+  width: 840px;
+  margin: 50px auto;
+
 }
 
-.main-content4 {
-  width: 100%;
-  height: 200px;
-  background-image: url(img2/box4.jpg);
-  background-position: center;
-  background-size: cover;
+.main-content {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid gray;
 }
+
+.main-text {
+  color: gray;
+}
+
